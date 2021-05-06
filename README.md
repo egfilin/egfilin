@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**egfilin/egfilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a random idiot who's trying to learn to program.
 
+
+
+that's it  
+i don't even have anything here yet lol
